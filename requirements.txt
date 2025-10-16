@@ -10,4 +10,6 @@ pypdf
 python-dotenv
 tqdm
 gunicorn
+huggingface-hub
+sentence-transformers
 - e .
