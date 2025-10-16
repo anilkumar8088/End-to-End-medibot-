@@ -9,4 +9,5 @@ langchain-huggingface
 pypdf
 python-dotenv
 tqdm
+gunicorn
 - e .
